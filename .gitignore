@@ -1,0 +1,9 @@
+# Python Caches
+__pycache__/
+NeuralNetwork/__pycache__/
+
+# Output Files
+Output/
+
+# Batch Files
+*.bat

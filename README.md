@@ -5,7 +5,7 @@
 
 #### &nbsp; U-Net implemented with TensorFlow >= 1.0.0
 
-&nbsp; This project is a reimplementation of the [Jakeret's U-Net](https://github.com/jakeret/tf_unet). <br/>
+&nbsp; This project is reimplementation of the [Jakeret's U-Net](https://github.com/jakeret/tf_unet). <br/>
 &nbsp; I reimplemented the code in my own style and modified it that can train multiple patch sizes at once. <br/><br/>
 
 ## How to use
